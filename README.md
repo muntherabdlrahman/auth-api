@@ -1,6 +1,10 @@
 # auth-api
 
 
+
+
+### heroku main deployment [main](https://auth-api-munther.herokuapp.com/)
+
 ### .env
 > PORT: 8000 NODE_ENV=test DATABASE_URL=postgres://localhost:5432/lab8
 
